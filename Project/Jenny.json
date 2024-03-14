@@ -1,0 +1,688 @@
+[
+  {
+    "customerNumber": 141,
+    "country": "Spain",
+    "customerName": "Euro+ Shopping Channel",
+    "city": "Madrid",
+    "total_orders": "26"
+  },
+  {
+    "customerNumber": 124,
+    "country": "USA",
+    "customerName": "Mini Gifts Distributors Ltd.",
+    "city": "San Rafael",
+    "total_orders": "17"
+  },
+  {
+    "customerNumber": 353,
+    "country": "France",
+    "customerName": "Reims Collectables",
+    "city": "Reims",
+    "total_orders": "5"
+  },
+  {
+    "customerNumber": 323,
+    "country": "New Zealand",
+    "customerName": "Down Under Souveniers, Inc",
+    "city": "Auckland  ",
+    "total_orders": "5"
+  },
+  {
+    "customerNumber": 145,
+    "country": "Denmark",
+    "customerName": "Danish Wholesale Imports",
+    "city": "Kobenhavn",
+    "total_orders": "5"
+  },
+  {
+    "customerNumber": 114,
+    "country": "Australia",
+    "customerName": "Australian Collectors, Co.",
+    "city": "Melbourne",
+    "total_orders": "5"
+  },
+  {
+    "customerNumber": 148,
+    "country": "Singapore",
+    "customerName": "Dragon Souveniers, Ltd.",
+    "city": "Singapore",
+    "total_orders": "5"
+  },
+  {
+    "customerNumber": 119,
+    "country": "France",
+    "customerName": "La Rochelle Gifts",
+    "city": "Nantes",
+    "total_orders": "4"
+  },
+  {
+    "customerNumber": 166,
+    "country": "Singapore",
+    "customerName": "Handji Gifts& Co",
+    "city": "Singapore",
+    "total_orders": "4"
+  },
+  {
+    "customerNumber": 282,
+    "country": "Australia",
+    "customerName": "Souveniers And Things Co.",
+    "city": "Chatswood",
+    "total_orders": "4"
+  },
+  {
+    "customerNumber": 151,
+    "country": "USA",
+    "customerName": "Muscle Machine Inc",
+    "city": "NYC",
+    "total_orders": "4"
+  },
+  {
+    "customerNumber": 131,
+    "country": "USA",
+    "customerName": "Land of Toys Inc.",
+    "city": "NYC",
+    "total_orders": "4"
+  },
+  {
+    "customerNumber": 381,
+    "country": "Belgium",
+    "customerName": "Royale Belge",
+    "city": "Charleroi",
+    "total_orders": "4"
+  },
+  {
+    "customerNumber": 321,
+    "country": "USA",
+    "customerName": "Corporate Gift Ideas Co.",
+    "city": "San Francisco",
+    "total_orders": "4"
+  },
+  {
+    "customerNumber": 450,
+    "country": "USA",
+    "customerName": "The Sharp Gifts Warehouse",
+    "city": "San Jose",
+    "total_orders": "4"
+  },
+  {
+    "customerNumber": 161,
+    "country": "USA",
+    "customerName": "Technics Stores Inc.",
+    "city": "Burlingame",
+    "total_orders": "4"
+  },
+  {
+    "customerNumber": 144,
+    "country": "Sweden",
+    "customerName": "Volvo Model Replicas, Co",
+    "city": "Luleå",
+    "total_orders": "4"
+  },
+  {
+    "customerNumber": 121,
+    "country": "Norway",
+    "customerName": "Baane Mini Imports",
+    "city": "Stavern",
+    "total_orders": "4"
+  },
+  {
+    "customerNumber": 496,
+    "country": "New Zealand",
+    "customerName": "Kelly's Gift Shop",
+    "city": "Auckland  ",
+    "total_orders": "4"
+  },
+  {
+    "customerNumber": 157,
+    "country": "USA",
+    "customerName": "Diecast Classics Inc.",
+    "city": "Allentown",
+    "total_orders": "4"
+  },
+  {
+    "customerNumber": 276,
+    "country": "Australia",
+    "customerName": "Anna's Decorations, Ltd",
+    "city": "North Sydney",
+    "total_orders": "4"
+  },
+  {
+    "customerNumber": 398,
+    "country": "Japan",
+    "customerName": "Tokyo Collectables, Ltd",
+    "city": "Minato-ku",
+    "total_orders": "4"
+  },
+  {
+    "customerNumber": 382,
+    "country": "Austria",
+    "customerName": "Salzburg Collectables",
+    "city": "Salzburg",
+    "total_orders": "4"
+  },
+  {
+    "customerNumber": 128,
+    "country": "Germany",
+    "customerName": "Blauer See Auto, Co.",
+    "city": "Frankfurt",
+    "total_orders": "4"
+  },
+  {
+    "customerNumber": 216,
+    "country": "Spain",
+    "customerName": "Enaco Distributors",
+    "city": "Barcelona",
+    "total_orders": "3"
+  },
+  {
+    "customerNumber": 103,
+    "country": "France",
+    "customerName": "Atelier graphique",
+    "city": "Nantes",
+    "total_orders": "3"
+  },
+  {
+    "customerNumber": 205,
+    "country": "USA",
+    "customerName": "Toys4GrownUps.com",
+    "city": "Pasadena",
+    "total_orders": "3"
+  },
+  {
+    "customerNumber": 201,
+    "country": "UK",
+    "customerName": "UK Collectables, Ltd.",
+    "city": "Liverpool",
+    "total_orders": "3"
+  },
+  {
+    "customerNumber": 333,
+    "country": "Australia",
+    "customerName": "Australian Gift Network, Co",
+    "city": "South Brisbane",
+    "total_orders": "3"
+  },
+  {
+    "customerNumber": 486,
+    "country": "USA",
+    "customerName": "Motor Mint Distributors Inc.",
+    "city": "Philadelphia",
+    "total_orders": "3"
+  },
+  {
+    "customerNumber": 187,
+    "country": "UK",
+    "customerName": "AV Stores, Co.",
+    "city": "Manchester",
+    "total_orders": "3"
+  },
+  {
+    "customerNumber": 458,
+    "country": "Spain",
+    "customerName": "Corrida Auto Replicas, Ltd",
+    "city": "Madrid",
+    "total_orders": "3"
+  },
+  {
+    "customerNumber": 172,
+    "country": "France",
+    "customerName": "La Corne D'abondance, Co.",
+    "city": "Paris",
+    "total_orders": "3"
+  },
+  {
+    "customerNumber": 452,
+    "country": "Austria",
+    "customerName": "Mini Auto Werke",
+    "city": "Graz",
+    "total_orders": "3"
+  },
+  {
+    "customerNumber": 447,
+    "country": "USA",
+    "customerName": "Gift Ideas Corp.",
+    "city": "Glendale",
+    "total_orders": "3"
+  },
+  {
+    "customerNumber": 412,
+    "country": "New Zealand",
+    "customerName": "Extreme Desk Decorations, Ltd",
+    "city": "Wellington",
+    "total_orders": "3"
+  },
+  {
+    "customerNumber": 250,
+    "country": "France",
+    "customerName": "Lyon Souveniers",
+    "city": "Paris",
+    "total_orders": "3"
+  },
+  {
+    "customerNumber": 386,
+    "country": "Italy",
+    "customerName": "L'ordine Souveniers",
+    "city": "Reggio Emilia",
+    "total_orders": "3"
+  },
+  {
+    "customerNumber": 362,
+    "country": "USA",
+    "customerName": "Gifts4AllAges.com",
+    "city": "Boston",
+    "total_orders": "3"
+  },
+  {
+    "customerNumber": 350,
+    "country": "France",
+    "customerName": "Marseille Mini Autos",
+    "city": "Marseille",
+    "total_orders": "3"
+  },
+  {
+    "customerNumber": 198,
+    "country": "USA",
+    "customerName": "Auto-Moto Classics Inc.",
+    "city": "Brickhaven",
+    "total_orders": "3"
+  },
+  {
+    "customerNumber": 328,
+    "country": "USA",
+    "customerName": "Tekni Collectables Inc.",
+    "city": "Newark",
+    "total_orders": "3"
+  },
+  {
+    "customerNumber": 186,
+    "country": "Finland",
+    "customerName": "Toys of Finland, Co.",
+    "city": "Helsinki",
+    "total_orders": "3"
+  },
+  {
+    "customerNumber": 471,
+    "country": "Australia",
+    "customerName": "Australian Collectables, Ltd",
+    "city": "Glen Waverly",
+    "total_orders": "3"
+  },
+  {
+    "customerNumber": 175,
+    "country": "USA",
+    "customerName": "Gift Depot Inc.",
+    "city": "Bridgewater",
+    "total_orders": "3"
+  },
+  {
+    "customerNumber": 314,
+    "country": "Belgium",
+    "customerName": "Petit Auto",
+    "city": "Bruxelles",
+    "total_orders": "3"
+  },
+  {
+    "customerNumber": 278,
+    "country": "Italy",
+    "customerName": "Rovelli Gifts",
+    "city": "Bergamo",
+    "total_orders": "3"
+  },
+  {
+    "customerNumber": 424,
+    "country": "USA",
+    "customerName": "Classic Legends Inc.",
+    "city": "NYC",
+    "total_orders": "3"
+  },
+  {
+    "customerNumber": 406,
+    "country": "France",
+    "customerName": "Auto Canal+ Petit",
+    "city": "Paris",
+    "total_orders": "3"
+  },
+  {
+    "customerNumber": 385,
+    "country": "Philippines",
+    "customerName": "Cruz & Sons Co.",
+    "city": "Makati City",
+    "total_orders": "3"
+  },
+  {
+    "customerNumber": 129,
+    "country": "USA",
+    "customerName": "Mini Wheels Co.",
+    "city": "San Francisco",
+    "total_orders": "3"
+  },
+  {
+    "customerNumber": 379,
+    "country": "USA",
+    "customerName": "Collectables For Less Inc.",
+    "city": "Brickhaven",
+    "total_orders": "3"
+  },
+  {
+    "customerNumber": 357,
+    "country": "New Zealand",
+    "customerName": "GiftsForHim.com",
+    "city": "Auckland",
+    "total_orders": "3"
+  },
+  {
+    "customerNumber": 112,
+    "country": "USA",
+    "customerName": "Signal Gift Stores",
+    "city": "Las Vegas",
+    "total_orders": "3"
+  },
+  {
+    "customerNumber": 209,
+    "country": "France",
+    "customerName": "Mini Caravy",
+    "city": "Strasbourg",
+    "total_orders": "3"
+  },
+  {
+    "customerNumber": 334,
+    "country": "Finland",
+    "customerName": "Suominen Souveniers",
+    "city": "Espoo",
+    "total_orders": "3"
+  },
+  {
+    "customerNumber": 324,
+    "country": "UK",
+    "customerName": "Stylish Desk Decors, Co.",
+    "city": "London",
+    "total_orders": "3"
+  },
+  {
+    "customerNumber": 181,
+    "country": "USA",
+    "customerName": "Vitachrome Inc.",
+    "city": "NYC",
+    "total_orders": "3"
+  },
+  {
+    "customerNumber": 320,
+    "country": "USA",
+    "customerName": "Mini Creations Ltd.",
+    "city": "New Bedford",
+    "total_orders": "3"
+  },
+  {
+    "customerNumber": 462,
+    "country": "USA",
+    "customerName": "FunGiftIdeas.com",
+    "city": "New Bedford",
+    "total_orders": "3"
+  },
+  {
+    "customerNumber": 311,
+    "country": "Finland",
+    "customerName": "Oulu Toy Supplies, Inc.",
+    "city": "Oulu",
+    "total_orders": "3"
+  },
+  {
+    "customerNumber": 167,
+    "country": "Norway  ",
+    "customerName": "Herkku Gifts",
+    "city": "Bergen",
+    "total_orders": "3"
+  },
+  {
+    "customerNumber": 448,
+    "country": "Sweden",
+    "customerName": "Scandinavian Gift Ideas",
+    "city": "Bräcke",
+    "total_orders": "3"
+  },
+  {
+    "customerNumber": 146,
+    "country": "France",
+    "customerName": "Saveley & Henriot, Co.",
+    "city": "Lyon",
+    "total_orders": "3"
+  },
+  {
+    "customerNumber": 242,
+    "country": "France",
+    "customerName": "Alpha Cognac",
+    "city": "Toulouse",
+    "total_orders": "3"
+  },
+  {
+    "customerNumber": 233,
+    "country": "Canada",
+    "customerName": "Québec Home Shopping Network",
+    "city": "Montréal",
+    "total_orders": "3"
+  },
+  {
+    "customerNumber": 363,
+    "country": "USA",
+    "customerName": "Online Diecast Creations Co.",
+    "city": "Nashua",
+    "total_orders": "3"
+  },
+  {
+    "customerNumber": 344,
+    "country": "Spain",
+    "customerName": "CAF Imports",
+    "city": "Madrid",
+    "total_orders": "2"
+  },
+  {
+    "customerNumber": 495,
+    "country": "USA",
+    "customerName": "Diecast Collectables",
+    "city": "Boston",
+    "total_orders": "2"
+  },
+  {
+    "customerNumber": 473,
+    "country": "Italy",
+    "customerName": "Frau da Collezione",
+    "city": "Milan",
+    "total_orders": "2"
+  },
+  {
+    "customerNumber": 177,
+    "country": "Japan",
+    "customerName": "Osaka Souveniers Co.",
+    "city": "Kita-ku",
+    "total_orders": "2"
+  },
+  {
+    "customerNumber": 319,
+    "country": "USA",
+    "customerName": "Mini Classics",
+    "city": "White Plains",
+    "total_orders": "2"
+  },
+  {
+    "customerNumber": 299,
+    "country": "Norway  ",
+    "customerName": "Norway Gifts By Mail, Co.",
+    "city": "Oslo",
+    "total_orders": "2"
+  },
+  {
+    "customerNumber": 260,
+    "country": "Canada",
+    "customerName": "Royal Canadian Collectables, Ltd.",
+    "city": "Tsawassen",
+    "total_orders": "2"
+  },
+  {
+    "customerNumber": 240,
+    "country": "UK",
+    "customerName": "giftsbymail.co.uk",
+    "city": "Cowes",
+    "total_orders": "2"
+  },
+  {
+    "customerNumber": 227,
+    "country": "Denmark",
+    "customerName": "Heintze Collectables",
+    "city": "Århus",
+    "total_orders": "2"
+  },
+  {
+    "customerNumber": 211,
+    "country": "Hong Kong",
+    "customerName": "King Kong Collectables, Co.",
+    "city": "Central Hong Kong",
+    "total_orders": "2"
+  },
+  {
+    "customerNumber": 204,
+    "country": "USA",
+    "customerName": "Online Mini Collectables",
+    "city": "Brickhaven",
+    "total_orders": "2"
+  },
+  {
+    "customerNumber": 339,
+    "country": "USA",
+    "customerName": "Classic Gift Ideas, Inc",
+    "city": "Philadelphia",
+    "total_orders": "2"
+  },
+  {
+    "customerNumber": 489,
+    "country": "UK",
+    "customerName": "Double Decker Gift Stores, Ltd",
+    "city": "London",
+    "total_orders": "2"
+  },
+  {
+    "customerNumber": 484,
+    "country": "Spain",
+    "customerName": "Iberia Gift Imports, Corp.",
+    "city": "Sevilla",
+    "total_orders": "2"
+  },
+  {
+    "customerNumber": 456,
+    "country": "USA",
+    "customerName": "Microscale Inc.",
+    "city": "NYC",
+    "total_orders": "2"
+  },
+  {
+    "customerNumber": 171,
+    "country": "France",
+    "customerName": "Daedalus Designs Imports",
+    "city": "Lille",
+    "total_orders": "2"
+  },
+  {
+    "customerNumber": 298,
+    "country": "Switzerland",
+    "customerName": "Vida Sport, Ltd",
+    "city": "Genève",
+    "total_orders": "2"
+  },
+  {
+    "customerNumber": 259,
+    "country": "Germany",
+    "customerName": "Toms Spezialitäten, Ltd",
+    "city": "Köln",
+    "total_orders": "2"
+  },
+  {
+    "customerNumber": 249,
+    "country": "Italy",
+    "customerName": "Amica Models & Co.",
+    "city": "Torino",
+    "total_orders": "2"
+  },
+  {
+    "customerNumber": 239,
+    "country": "USA",
+    "customerName": "Collectable Mini Designs Co.",
+    "city": "San Diego",
+    "total_orders": "2"
+  },
+  {
+    "customerNumber": 219,
+    "country": "USA",
+    "customerName": "Boards & Toys Co.",
+    "city": "Glendale",
+    "total_orders": "2"
+  },
+  {
+    "customerNumber": 347,
+    "country": "USA",
+    "customerName": "Men 'R' US Retailers, Ltd.",
+    "city": "Los Angeles",
+    "total_orders": "2"
+  },
+  {
+    "customerNumber": 202,
+    "country": "Canada",
+    "customerName": "Canadian Gift Exchange Network",
+    "city": "Vancouver",
+    "total_orders": "2"
+  },
+  {
+    "customerNumber": 487,
+    "country": "USA",
+    "customerName": "Signal Collectibles Ltd.",
+    "city": "Brisbane",
+    "total_orders": "2"
+  },
+  {
+    "customerNumber": 189,
+    "country": "Ireland",
+    "customerName": "Clover Collections, Co.",
+    "city": "Dublin",
+    "total_orders": "2"
+  },
+  {
+    "customerNumber": 475,
+    "country": "USA",
+    "customerName": "West Coast Collectables Co.",
+    "city": "Burbank",
+    "total_orders": "2"
+  },
+  {
+    "customerNumber": 173,
+    "country": "USA",
+    "customerName": "Cambridge Collectables Co.",
+    "city": "Cambridge",
+    "total_orders": "2"
+  },
+  {
+    "customerNumber": 455,
+    "country": "USA",
+    "customerName": "Super Scale Inc.",
+    "city": "New Haven",
+    "total_orders": "2"
+  },
+  {
+    "customerNumber": 286,
+    "country": "USA",
+    "customerName": "Marta's Replicas Co.",
+    "city": "Cambridge",
+    "total_orders": "2"
+  },
+  {
+    "customerNumber": 256,
+    "country": "France",
+    "customerName": "Auto Associés & Cie.",
+    "city": "Versailles",
+    "total_orders": "2"
+  },
+  {
+    "customerNumber": 415,
+    "country": "Germany",
+    "customerName": "Bavarian Collectables Imports, Co.",
+    "city": "Munich",
+    "total_orders": "1"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "productLine": "Classic Cars",
+    "totalRevenue": "3853922.49",
+    "totalProfit": "1526212.20"
+  },
+  {
+    "productLine": "Motorcycles",
+    "totalRevenue": "1121426.12",
+    "totalProfit": "469255.30"
+  },
+  {
+    "productLine": "Planes",
+    "totalRevenue": "954637.54",
+    "totalProfit": "365960.71"
+  },
+  {
+    "productLine": "Ships",
+    "totalRevenue": "663998.34",
+    "totalProfit": "261289.47"
+  },
+  {
+    "productLine": "Trains",
+    "totalRevenue": "188532.92",
+    "totalProfit": "65341.02"
+  },
+  {
+    "productLine": "Trucks and Buses",
+    "totalRevenue": "1024113.57",
+    "totalProfit": "400553.22"
+  },
+  {
+    "productLine": "Vintage Cars",
+    "totalRevenue": "1797559.63",
+    "totalProfit": "737268.33"
+  }
+]

@@ -1,0 +1,240 @@
+Code,Name,Continent,Population,LifeExpectancy
+ABW,Aruba,North America,103000,78.4
+AFG,Afghanistan,Asia,22720000,45.9
+AGO,Angola,Africa,12878000,38.3
+AIA,Anguilla,North America,8000,76.1
+ALB,Albania,Europe,3401200,71.6
+AND,Andorra,Europe,78000,83.5
+ANT,Netherlands Antilles,North America,217000,74.7
+ARE,United Arab Emirates,Asia,2441000,74.1
+ARG,Argentina,South America,37032000,75.1
+ARM,Armenia,Asia,3520000,66.4
+ASM,American Samoa,Oceania,68000,75.1
+ATA,Antarctica,Antarctica,0,
+ATF,French Southern territories,Antarctica,0,
+ATG,Antigua and Barbuda,North America,68000,70.5
+AUS,Australia,Oceania,18886000,79.8
+AUT,Austria,Europe,8091800,77.7
+AZE,Azerbaijan,Asia,7734000,62.9
+BDI,Burundi,Africa,6695000,46.2
+BEL,Belgium,Europe,10239000,77.8
+BEN,Benin,Africa,6097000,50.2
+BFA,Burkina Faso,Africa,11937000,46.7
+BGD,Bangladesh,Asia,129155000,60.2
+BGR,Bulgaria,Europe,8190900,70.9
+BHR,Bahrain,Asia,617000,73.0
+BHS,Bahamas,North America,307000,71.1
+BIH,Bosnia and Herzegovina,Europe,3972000,71.5
+BLR,Belarus,Europe,10236000,68.0
+BLZ,Belize,North America,241000,70.9
+BMU,Bermuda,North America,65000,76.9
+BOL,Bolivia,South America,8329000,63.7
+BRA,Brazil,South America,170115000,62.9
+BRB,Barbados,North America,270000,73.0
+BRN,Brunei,Asia,328000,73.6
+BTN,Bhutan,Asia,2124000,52.4
+BVT,Bouvet Island,Antarctica,0,
+BWA,Botswana,Africa,1622000,39.3
+CAF,Central African Republic,Africa,3615000,44.0
+CAN,Canada,North America,31147000,79.4
+CCK,Cocos (Keeling) Islands,Oceania,600,
+CHE,Switzerland,Europe,7160400,79.6
+CHL,Chile,South America,15211000,75.7
+CHN,China,Asia,1277558000,71.4
+CIV,Côte d’Ivoire,Africa,14786000,45.2
+CMR,Cameroon,Africa,15085000,54.8
+COD,"Congo, The Democratic Republic of the",Africa,51654000,48.8
+COG,Congo,Africa,2943000,47.4
+COK,Cook Islands,Oceania,20000,71.1
+COL,Colombia,South America,42321000,70.3
+COM,Comoros,Africa,578000,60.0
+CPV,Cape Verde,Africa,428000,68.9
+CRI,Costa Rica,North America,4023000,75.8
+CUB,Cuba,North America,11201000,76.2
+CXR,Christmas Island,Oceania,2500,
+CYM,Cayman Islands,North America,38000,78.9
+CYP,Cyprus,Asia,754700,76.7
+CZE,Czech Republic,Europe,10278100,74.5
+DEU,Germany,Europe,82164700,77.4
+DJI,Djibouti,Africa,638000,50.8
+DMA,Dominica,North America,71000,73.4
+DNK,Denmark,Europe,5330000,76.5
+DOM,Dominican Republic,North America,8495000,73.2
+DZA,Algeria,Africa,31471000,69.7
+ECU,Ecuador,South America,12646000,71.1
+EGY,Egypt,Africa,68470000,63.3
+ERI,Eritrea,Africa,3850000,55.8
+ESH,Western Sahara,Africa,293000,49.8
+ESP,Spain,Europe,39441700,78.8
+EST,Estonia,Europe,1439200,69.5
+ETH,Ethiopia,Africa,62565000,45.2
+FIN,Finland,Europe,5171300,77.4
+FJI,Fiji Islands,Oceania,817000,67.9
+FLK,Falkland Islands,South America,2000,
+FRA,France,Europe,59225700,78.8
+FRO,Faroe Islands,Europe,43000,78.4
+FSM,"Micronesia, Federated States of",Oceania,119000,68.6
+GAB,Gabon,Africa,1226000,50.1
+GBR,United Kingdom,Europe,59623400,77.7
+GEO,Georgia,Asia,4968000,64.5
+GHA,Ghana,Africa,20212000,57.4
+GIB,Gibraltar,Europe,25000,79.0
+GIN,Guinea,Africa,7430000,45.6
+GLP,Guadeloupe,North America,456000,77.0
+GMB,Gambia,Africa,1305000,53.2
+GNB,Guinea-Bissau,Africa,1213000,49.0
+GNQ,Equatorial Guinea,Africa,453000,53.6
+GRC,Greece,Europe,10545700,78.4
+GRD,Grenada,North America,94000,64.5
+GRL,Greenland,North America,56000,68.1
+GTM,Guatemala,North America,11385000,66.2
+GUF,French Guiana,South America,181000,76.1
+GUM,Guam,Oceania,168000,77.8
+GUY,Guyana,South America,861000,64.0
+HKG,Hong Kong,Asia,6782000,79.5
+HMD,Heard Island and McDonald Islands,Antarctica,0,
+HND,Honduras,North America,6485000,69.9
+HRV,Croatia,Europe,4473000,73.7
+HTI,Haiti,North America,8222000,49.2
+HUN,Hungary,Europe,10043200,71.4
+IDN,Indonesia,Asia,212107000,68.0
+IND,India,Asia,1013662000,62.5
+IOT,British Indian Ocean Territory,Africa,0,
+IRL,Ireland,Europe,3775100,76.8
+IRN,Iran,Asia,67702000,69.7
+IRQ,Iraq,Asia,23115000,66.5
+ISL,Iceland,Europe,279000,79.4
+ISR,Israel,Asia,6217000,78.6
+ITA,Italy,Europe,57680000,79.0
+JAM,Jamaica,North America,2583000,75.2
+JOR,Jordan,Asia,5083000,77.4
+JPN,Japan,Asia,126714000,80.7
+KAZ,Kazakstan,Asia,16223000,63.2
+KEN,Kenya,Africa,30080000,48.0
+KGZ,Kyrgyzstan,Asia,4699000,63.4
+KHM,Cambodia,Asia,11168000,56.5
+KIR,Kiribati,Oceania,83000,59.8
+KNA,Saint Kitts and Nevis,North America,38000,70.7
+KOR,South Korea,Asia,46844000,74.4
+KWT,Kuwait,Asia,1972000,76.1
+LAO,Laos,Asia,5433000,53.1
+LBN,Lebanon,Asia,3282000,71.3
+LBR,Liberia,Africa,3154000,51.0
+LBY,Libyan Arab Jamahiriya,Africa,5605000,75.5
+LCA,Saint Lucia,North America,154000,72.3
+LIE,Liechtenstein,Europe,32300,78.8
+LKA,Sri Lanka,Asia,18827000,71.8
+LSO,Lesotho,Africa,2153000,50.8
+LTU,Lithuania,Europe,3698500,69.1
+LUX,Luxembourg,Europe,435700,77.1
+LVA,Latvia,Europe,2424200,68.4
+MAC,Macao,Asia,473000,81.6
+MAR,Morocco,Africa,28351000,69.1
+MCO,Monaco,Europe,34000,78.8
+MDA,Moldova,Europe,4380000,64.5
+MDG,Madagascar,Africa,15942000,55.0
+MDV,Maldives,Asia,286000,62.2
+MEX,Mexico,North America,98881000,71.5
+MHL,Marshall Islands,Oceania,64000,65.5
+MKD,Macedonia,Europe,2024000,73.8
+MLI,Mali,Africa,11234000,46.7
+MLT,Malta,Europe,380200,77.9
+MMR,Myanmar,Asia,45611000,54.9
+MNG,Mongolia,Asia,2662000,67.3
+MNP,Northern Mariana Islands,Oceania,78000,75.5
+MOZ,Mozambique,Africa,19680000,37.5
+MRT,Mauritania,Africa,2670000,50.8
+MSR,Montserrat,North America,11000,78.0
+MTQ,Martinique,North America,395000,78.3
+MUS,Mauritius,Africa,1158000,71.0
+MWI,Malawi,Africa,10925000,37.6
+MYS,Malaysia,Asia,22244000,70.8
+MYT,Mayotte,Africa,149000,59.5
+NAM,Namibia,Africa,1726000,42.5
+NCL,New Caledonia,Oceania,214000,72.8
+NER,Niger,Africa,10730000,41.3
+NFK,Norfolk Island,Oceania,2000,
+NGA,Nigeria,Africa,111506000,51.6
+NIC,Nicaragua,North America,5074000,68.7
+NIU,Niue,Oceania,2000,
+NLD,Netherlands,Europe,15864000,78.3
+NOR,Norway,Europe,4478500,78.7
+NPL,Nepal,Asia,23930000,57.8
+NRU,Nauru,Oceania,12000,60.8
+NZL,New Zealand,Oceania,3862000,77.8
+OMN,Oman,Asia,2542000,71.8
+PAK,Pakistan,Asia,156483000,61.1
+PAN,Panama,North America,2856000,75.5
+PCN,Pitcairn,Oceania,50,
+PER,Peru,South America,25662000,70.0
+PHL,Philippines,Asia,75967000,67.5
+PLW,Palau,Oceania,19000,68.6
+PNG,Papua New Guinea,Oceania,4807000,63.1
+POL,Poland,Europe,38653600,73.2
+PRI,Puerto Rico,North America,3869000,75.6
+PRK,North Korea,Asia,24039000,70.7
+PRT,Portugal,Europe,9997600,75.8
+PRY,Paraguay,South America,5496000,73.7
+PSE,Palestine,Asia,3101000,71.4
+PYF,French Polynesia,Oceania,235000,74.8
+QAT,Qatar,Asia,599000,72.4
+REU,Réunion,Africa,699000,72.7
+ROM,Romania,Europe,22455500,69.9
+RUS,Russian Federation,Europe,146934000,67.2
+RWA,Rwanda,Africa,7733000,39.3
+SAU,Saudi Arabia,Asia,21607000,67.8
+SDN,Sudan,Africa,29490000,56.6
+SEN,Senegal,Africa,9481000,62.2
+SGP,Singapore,Asia,3567000,80.1
+SGS,South Georgia and the South Sandwich Islands,Antarctica,0,
+SHN,Saint Helena,Africa,6000,76.8
+SJM,Svalbard and Jan Mayen,Europe,3200,
+SLB,Solomon Islands,Oceania,444000,71.3
+SLE,Sierra Leone,Africa,4854000,45.3
+SLV,El Salvador,North America,6276000,69.7
+SMR,San Marino,Europe,27000,81.1
+SOM,Somalia,Africa,10097000,46.2
+SPM,Saint Pierre and Miquelon,North America,7000,77.6
+STP,Sao Tome and Principe,Africa,147000,65.3
+SUR,Suriname,South America,417000,71.4
+SVK,Slovakia,Europe,5398700,73.7
+SVN,Slovenia,Europe,1987800,74.9
+SWE,Sweden,Europe,8861400,79.6
+SWZ,Swaziland,Africa,1008000,40.4
+SYC,Seychelles,Africa,77000,70.4
+SYR,Syria,Asia,16125000,68.5
+TCA,Turks and Caicos Islands,North America,17000,73.3
+TCD,Chad,Africa,7651000,50.5
+TGO,Togo,Africa,4629000,54.7
+THA,Thailand,Asia,61399000,68.6
+TJK,Tajikistan,Asia,6188000,64.1
+TKL,Tokelau,Oceania,2000,
+TKM,Turkmenistan,Asia,4459000,60.9
+TMP,East Timor,Asia,885000,46.0
+TON,Tonga,Oceania,99000,67.9
+TTO,Trinidad and Tobago,North America,1295000,68.0
+TUN,Tunisia,Africa,9586000,73.7
+TUR,Turkey,Asia,66591000,71.0
+TUV,Tuvalu,Oceania,12000,66.3
+TWN,Taiwan,Asia,22256000,76.4
+TZA,Tanzania,Africa,33517000,52.3
+UGA,Uganda,Africa,21778000,42.9
+UKR,Ukraine,Europe,50456000,66.0
+UMI,United States Minor Outlying Islands,Oceania,0,
+URY,Uruguay,South America,3337000,75.2
+USA,United States,North America,278357000,77.1
+UZB,Uzbekistan,Asia,24318000,63.7
+VAT,Holy See (Vatican City State),Europe,1000,
+VCT,Saint Vincent and the Grenadines,North America,114000,72.3
+VEN,Venezuela,South America,24170000,73.1
+VGB,"Virgin Islands, British",North America,21000,75.4
+VIR,"Virgin Islands, U.S.",North America,93000,78.1
+VNM,Vietnam,Asia,79832000,69.3
+VUT,Vanuatu,Oceania,190000,60.6
+WLF,Wallis and Futuna,Oceania,15000,
+WSM,Samoa,Oceania,180000,69.2
+YEM,Yemen,Asia,18112000,59.8
+YUG,Yugoslavia,Europe,10640000,72.4
+ZAF,South Africa,Africa,40377000,51.1
+ZMB,Zambia,Africa,9169000,37.2
+ZWE,Zimbabwe,Africa,11669000,37.8
